@@ -54,11 +54,15 @@ Uses zero-shot learning, so no specific dataset is required. However, you can te
 ## Results
 Disaster Type	Accuracy (Sample)
 Flood	85%
+
 Wildfire	90%
+
 Earthquake	75%
+
 Hurricane	80%
 
 
 ## Acknowledgments
 OpenAI for the CLIP model
+
 Public disaster image datasets for testing
