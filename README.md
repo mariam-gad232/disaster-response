@@ -48,6 +48,7 @@ Edit disaster_classes.json to add or modify disaster types and their associated 
 Uses zero-shot learning, so no specific dataset is required. However, you can test with:
 
 -Disaster images from public datasets (e.g., NOAA, ReliefWeb)
+
 -Custom images of floods, wildfires, earthquakes, etc.
 
 ## Results
